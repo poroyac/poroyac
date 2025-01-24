@@ -1,11 +1,8 @@
-## Hola! Soy Pamela 👋
+## Hola! Soy Pamela Oroya 👋
 Soy Ingeniera Informática apasionada por la eficiencia operativa a través del análisis de datos.
 
----
- <div id="header" align="left">
-
 ### :woman_technologist: Sobre mí :
-💡 Soy Ingeniera Informática con más de 10 años de experiencia en empresas multinacionales del sector bancario. A lo largo de mi carrera, he trabajado en diversas áreas como gestión de información, estrategia comercial, finanzas, mejora de procesos, y planeamiento y control financiero. Mi enfoque ha estado siempre en mejorar la eficiencia operativa mediante el análisis de datos. Asimismo, estoy comprometida con la mejora continua y con la entrega de soluciones basadas en datos que impulsen decisiones estratégicas.
+💡 Profesional con más de 10 años de experiencia en empresas multinacionales del sector bancario. A lo largo de mi carrera, he trabajado en diversas áreas como gestión de información, estrategia comercial, finanzas, mejora de procesos, y planeamiento y control financiero. Mi enfoque ha estado siempre en mejorar la eficiencia operativa mediante el análisis de datos. Asimismo, estoy comprometida con la mejora continua y con la entrega de soluciones basadas en datos que impulsen decisiones estratégicas.
 
 Tengo una profunda pasión por resolver problemas complejos y encontrar soluciones prácticas que aporten valor al negocio. Mi habilidad para sintetizar ideas complejas y traducirlas en información clara y comprensible me ha permitido comunicar hallazgos a diferentes niveles de la organización, desde equipos técnicos hasta ejecutivos.
 
