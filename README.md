@@ -1,7 +1,11 @@
-## Hola! Soy Pamela Oroya 👋
+## Hola! Soy Pamela, un gusto conocerte 👋
 Soy Ingeniera Informática apasionada por la eficiencia operativa a través del análisis de datos.
 
-### :woman_technologist: Sobre mí :
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/poroyac/poroyac/blob/main/VF%20Banner%20PO.jpg" width="1000"/>
+</div>
+
+### 👩🏻‍🦱 Sobre mí :
 💡 Profesional con más de 10 años de experiencia en empresas multinacionales del sector bancario. A lo largo de mi carrera, he trabajado en diversas áreas como gestión de información, estrategia comercial, finanzas, mejora de procesos, y planeamiento y control financiero. Mi enfoque ha estado siempre en mejorar la eficiencia operativa mediante el análisis de datos. Asimismo, estoy comprometida con la mejora continua y con la entrega de soluciones basadas en datos que impulsen decisiones estratégicas.
 
 Tengo una profunda pasión por resolver problemas complejos y encontrar soluciones prácticas que aporten valor al negocio. Mi habilidad para sintetizar ideas complejas y traducirlas en información clara y comprensible me ha permitido comunicar hallazgos a diferentes niveles de la organización, desde equipos técnicos hasta ejecutivos.
