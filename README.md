@@ -5,7 +5,7 @@ Soy una Ingeniera Informática apasionada por el análisis de datos.
  <div id="header" align="left">
 
 ### :woman_technologist: Sobre mí :
-🤓 Desde el 2014 vengo desarrollandomé en posiciones funcionales, brindando ideas innovadoras desde mi expertise como ingeniera informática en áreas de mejora de procesos, gestión comercial, planeamiento y control financiero, enfocadas en segmentos de banca persona del segmento Premium en Perú. En los últimos dos años en un área de finanzas donde pude aprender de un negocio a nivel regional y tener una visión holística de una compañía.
+💡 Desde el 2014 vengo desarrollandomé en posiciones funcionales, brindando ideas innovadoras desde mi expertise como ingeniera informática en áreas de mejora de procesos, gestión comercial, planeamiento y control financiero, enfocadas en segmentos de banca persona del segmento Premium en Perú. En los últimos dos años en un área de finanzas donde pude aprender de un negocio a nivel regional y tener una visión holística de una compañía.
 
 🌟 En el 2024 opté por especializarme en el análisis de datos, donde la finalización del bootcamp de Data Analyst en TripleTen permitió actualizarme de las tecnologías usadas hoy en día y así poder retornar al mundo corporativo en un rol más enfocado a data & insights.
 
