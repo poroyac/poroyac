@@ -1,15 +1,17 @@
 ## Hola! Soy Pamela 👋
-Soy una Ingeniera Informática apasionada por el análisis de datos.
+Soy Ingeniera Informática apasionada por la eficiencia operativa a través del análisis de datos.
 
 ---
  <div id="header" align="left">
 
 ### :woman_technologist: Sobre mí :
-💡 Desde el 2014 vengo desarrollandomé en posiciones funcionales, brindando ideas innovadoras desde mi expertise como ingeniera informática en áreas de mejora de procesos, gestión comercial, planeamiento y control financiero, enfocadas en segmentos de banca persona del segmento Premium en Perú. En los últimos dos años en un área de finanzas donde pude aprender de un negocio a nivel regional y tener una visión holística de una compañía.
+💡 Soy Ingeniera Informática con más de 10 años de experiencia en empresas multinacionales del sector bancario. A lo largo de mi carrera, he trabajado en diversas áreas como gestión de información, estrategia comercial, finanzas, mejora de procesos, y planeamiento y control financiero. Mi enfoque ha estado siempre en mejorar la eficiencia operativa mediante el análisis de datos. Asimismo, estoy comprometida con la mejora continua y con la entrega de soluciones basadas en datos que impulsen decisiones estratégicas.
 
-🌟 En el 2024 opté por especializarme en el análisis de datos, donde la finalización del bootcamp de Data Analyst en TripleTen permitió actualizarme de las tecnologías usadas hoy en día y así poder retornar al mundo corporativo en un rol más enfocado a data & insights.
+Tengo una profunda pasión por resolver problemas complejos y encontrar soluciones prácticas que aporten valor al negocio. Mi habilidad para sintetizar ideas complejas y traducirlas en información clara y comprensible me ha permitido comunicar hallazgos a diferentes niveles de la organización, desde equipos técnicos hasta ejecutivos.
 
-🔍 Actualmente me encuentro en búsqueda de nuevos retos profesionales, donde mi experiencia laboral en el sector bancario pueda sumar de manera innovadora a los objetivos de empresas de cualquier rubro.
+🌟 En el 2024 decidí especializarme en el análisis de datos, y para ello, completé con éxito el bootcamp de Data Analyst en TripleTen. Esta formación me permitió actualizarme con las tecnologías más recientes y adquirir las habilidades necesarias para reincorporarme al mundo corporativo en un rol más enfocado en análisis de datos e insights.
+
+🔍 Mi objetivo es continuar creciendo en el campo del análisis de datos y aportar mi experiencia a equipos dinámicos en mercados internacionales y a nivel LATAM.
 
 :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Pamela-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pamela-oroya/)
   
